@@ -1,7 +1,7 @@
 # Excel-dashboard-HR-dataset
-Interactive  dashboard built on Excel that reviews critical insights on different metrics of HR management
-Please download the HR dataset Excel file to interact with the dashboard and reveal the 
-important findings included
+Interactive dashboards built on Excel review critical insights on different HR management metrics.
+Please download the HR dataset Excel file to interact with the dashboard and reveal the important findings included.
+
 Here are some snapshots
 ## Overview dashboard
 <img width="623" alt="HR dashboard" src="https://github.com/user-attachments/assets/e4040a3c-6716-49a6-99d2-fc16d385d6f4" />
